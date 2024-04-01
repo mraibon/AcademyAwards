@@ -9,7 +9,7 @@ Determine any correlation between a movie's box office success and IMDb rating w
 * Kaggle dataset - [Oscar Awards](https://www.kaggle.com/datasets/unanimad/the-oscar-award)
 
 ## Tools
-* Data analysis: Microsoft SQL Server 2019
+* Data analysis: Microsoft SQL Server 2019; Excel
 * Visualization: [Tableau dashboard](https://public.tableau.com/views/TheAcademyAwards/AcademyAwards?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Tableau
