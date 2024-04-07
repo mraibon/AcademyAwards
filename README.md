@@ -1,4 +1,4 @@
-# AcademyAwards
+# The Academy Awards
 
 ## Objective
 Determine any correlation between a movie's box office success and IMDb rating with the Academy Award nominations and winners.
